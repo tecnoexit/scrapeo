@@ -1,2 +1,2 @@
 # scrapeo
-aplicacion para scrapear
+aplicacion para scrapear paginas
