@@ -1,3 +1,4 @@
+
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
@@ -23,7 +24,7 @@ def scrape_news():
 
 # Streamlit web app
 def main():
-    st.title("Simple News Scraper")
+    st.title("escraper simple de beautifulsoup ")
 
     # Trigger the scraping function
     if st.button("Scrape News"):
